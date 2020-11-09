@@ -8,7 +8,7 @@ navigation_weight: 6
 
 ## 10DLC
 
-10 digit long code (10DLC) is the new standard in Application 2 Person (A2P) text messaging. This standard allows businesses to have a higher volume throughput and improves security standards for messaging.
+10 digit long code (10DLC) is the new standard in Application to Person (A2P) text messaging. This standard allows businesses to have a higher volume throughput and improves security standards for messaging.
 
 ## 2FA
 
