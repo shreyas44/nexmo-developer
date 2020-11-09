@@ -6,6 +6,10 @@ navigation_weight: 6
 
 # Glossary
 
+## 10DLC
+
+10 digit long code (10DLC) is the new standard in Application 2 Person (A2P) text messaging. This standard allows businesses to have a higher volume throughput and improves security standards for messaging.
+
 ## 2FA
 
 Two-factor authentication: unambiguous identification of users by means of the combination of two different components. For example, to withdraw cash from an ATM, you need both a card and a PIN code. These components may be something that the user knows, something that the user possesses or something that is inseparable from the user.
@@ -418,6 +422,10 @@ Further information can be found on the [Nexmo Tools page](https://developer.nex
 ## Shared Short Codes
 
 A Short Code that is instantly available to Customers. These US Short Codes are shared with other customers.
+
+## Shared Short Code Deprecation
+
+**Effective immediately, Vonage will no longer accept new programs for Shared Short Codes for A2P messaging.** T-Mobile and AT&T’s new code of conduct prohibits the use of shared originators, therefore, existing Shared Short Code traffic must be migrated by March 1, 2021. To help you with this transition, please use the Vonage [guide on alternatives](https://help.nexmo.com/hc/en-us/articles/360050905592).  Please contact us to migrate to a new solution.
 
 ## Short Code
 
