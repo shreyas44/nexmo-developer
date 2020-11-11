@@ -1,6 +1,7 @@
 ---
 dependencies:
     - nexmo@beta
+    - @vonage/server-sdk
 code:
     source: .repos/vonage/vonage-node-code-snippets/messages/whatsapp/send-text.js
     from_line: 12
